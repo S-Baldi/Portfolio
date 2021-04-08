@@ -1,0 +1,82 @@
+div {
+  background:#1d2424;
+  margin-top: -21px;
+  margin-bottom: -10px;
+  margin-left: -8px;
+  margin-right: -8px;
+  padding-top: 1px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+  font-size: 25px;
+}
+body {
+  font-family:sans-serif, 'Times New Roman', Times;
+}
+h1 {
+  background-color: #3d6a66;
+  text-align: left;
+  font-family:'Arial Narrow', Arial, sans-serif;
+  font-size: 80px;
+  margin-top: 10px;
+  margin-left: -4px;
+  margin-right: -4px;
+  margin-bottom: 0px;
+}
+h2 {
+  font: bold 30px sans-serif ;
+  color: #69849b;
+}
+
+.barra {
+  text-align: center;
+}
+.barra li{
+  list-style: none;
+  font: bold 16px arial black;
+  display: inline-block;
+  padding-right: 70px;
+  padding-left: 70px;
+  color: #dcdcdd;
+}
+
+.pie {
+  text-align: center;
+  margin-top: 35px;
+}
+
+
+.mi, .listami {
+  margin-top: 5px;
+  margin-bottom: 0px;;
+}
+.listami {
+  margin-bottom: 10px;
+  list-style: none;
+}
+
+.gustos, .infogusto {
+  
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
+
+.contacto, .listacontacto {
+  
+  list-style: none;
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
+
+.art, .listaart {
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
+a {
+  color: #d0c3bd ;
+}
+.column {
+  display: table-cell;
+  padding-top: 10px;
+  padding-left: 10px;
+}
